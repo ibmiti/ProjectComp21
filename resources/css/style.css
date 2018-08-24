@@ -232,9 +232,9 @@ header {
 
 /* Main navi */
 .main-nav {
-    float: right;
+    float: center;
     list-style: none;
-    margin-top: 55px;
+    margin-top: 25px;
 }
 
 .main-nav li {
@@ -248,7 +248,7 @@ header {
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
-    font-size: 90%;
+    font-size: 75%;
     border-bottom: 2px solid transparent;
     -webkit-transition: border-bottom 0.2s;
     transition: border-bottom 0.2s;
